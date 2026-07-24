@@ -12,11 +12,11 @@
 
 Ian Xiaohei Illustrations is a Codex Skill that guides an AI agent to generate inline illustrations for articles, posts, blogs, Notion docs, and methodology content.
 
-It is not a general illustration prompt and not a PPT infographic template. The core goal: first understand the cognitive anchors in the article, then turn one judgment, process, structure, state, or metaphor into a memorable 16:9 hand-drawn explainer image.
+This is not a general illustration prompt or PPT infographic template. The core goal is to first understand the cognitive anchors in the article, then turn one judgment, process, structure, state, or metaphor into a memorable 16:9 hand-drawn explainer image.
 
 The default visual IP is "Xiaohei": a small, solid-black, white-dot-eyed, thin-legged, blank-expression creature. Xiaohei is not a mascot, not a sticker, not corner decoration — Xiaohei is an absurd worker seriously taking part in how the system runs.
 
-In one line: **stop "adding an image" and start drawing one key cognitive action from the article.**
+**Stop "adding an image" and start drawing one key cognitive action from the article.**
 
 ---
 

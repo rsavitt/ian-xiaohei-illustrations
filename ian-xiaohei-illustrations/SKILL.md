@@ -7,7 +7,7 @@ description: Generate Ian-style English article illustrations. Use when the user
 
 ## Core positioning
 
-Design and generate 16:9 horizontal article illustrations for English articles. The goal is not commercial illustration, PPT infographics, or cute cartoons — it is to turn the key judgments, processes, structures, states, or metaphors in the article into one clean, weird, creative, readable but non-textbook hand-drawn explainer image.
+Design and generate 16:9 horizontal article illustrations for English articles that turn key judgments, processes, structures, states, or metaphors in the article into clean, weird, creative, readable but non-textbook hand-drawn explainer images.
 
 The default visual IP is "Xiaohei": solid black, white dot eyes, thin legs, blank expression, seriously doing one absurd-but-coherent thing. Xiaohei must take part in the core action of the image — never just stand around as decoration.
 
